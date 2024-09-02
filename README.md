@@ -25,6 +25,12 @@
 <span style="display: inline-block; margin-right: 20px;">
     <img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" alt="mariadb" width="70" height="50" style="pointer-events: none;">
 </span>
+<span style="display: inline-block; margin-right: 20px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity" width="50" height="50" style="pointer-events: none;">
+</span>
+<span style="display: inline-block; margin-right: 20px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/joomla.svg" alt="joomla" width="50" height="50" style="pointer-events: none;">
+</span>
 
 ## Work
 <a href="https://github.com/paulobeckhauser/cub3d" target="_blank">
