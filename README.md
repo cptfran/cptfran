@@ -29,6 +29,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity" width="50" height="50">
 </span>
 
+## Work
+![cub3d](https://github.com/paulobeckhauser/cub3d/blob/main/bonus/textures/gif/cub3d.gif)
+
+
 <!--
 **cptfran/cptfran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
