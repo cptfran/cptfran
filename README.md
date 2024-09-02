@@ -8,22 +8,22 @@
 
 ## Technologies
 <span style="display: inline-block; margin-right: 20px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cpplanguage" width="50" height="50">
+    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cpplanguage" width="50" height="50" style="pointer-events: none;">
 </span>
 <span style="display: inline-block; margin-right: 20px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="clanguage" width="50" height="50">
+    <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="clanguage" width="50" height="50" style="pointer-events: none;">
 </span>
 <span style="display: inline-block; margin-right: 20px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharplanguage" width="50" height="50">
+    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharplanguage" width="50" height="50" style="pointer-events: none;">
 </span>
 <span style="display: inline-block; margin-right: 20px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="docker" width="50" height="50">
+    <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="docker" width="50" height="50" style="pointer-events: none;">
 </span>
 <span style="display: inline-block; margin-right: 20px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git" width="100" height="50">
+    <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git" width="100" height="50" style="pointer-events: none;">
 </span>
 <span style="display: inline-block; margin-right: 20px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" alt="mariadb" width="70" height="50">
+    <img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" alt="mariadb" width="70" height="50" style="pointer-events: none;">
 </span>
 
 ## Work
