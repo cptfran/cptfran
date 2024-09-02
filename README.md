@@ -30,7 +30,7 @@
 </span>
 
 ## Work
-![cub3d](https://github.com/paulobeckhauser/cub3d/blob/main/bonus/textures/gif/cub3d.gif)
+<img src="https://github.com/paulobeckhauser/cub3d/blob/main/bonus/textures/gif/cub3d.gif" alt="cub3d" width="300" height="auto">
 
 
 <!--
