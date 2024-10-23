@@ -34,9 +34,9 @@
 
 ## Work
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/paulobeckhauser/minishell/blob/main/minishell.gif" alt="minishell" width="260" height="auto">
-  <img src="https://github.com/paulobeckhauser/cub3d/blob/main/bonus/textures/gif/cub3d.gif" alt="cub3d" width="260" height="auto">
-  <img src="https://github.com/cptfran/VampJump/blob/main/Assets/Textures/demo.gif" alt="VampJump" width="260" height="auto">
+  <img src="https://github.com/paulobeckhauser/minishell/blob/main/minishell.gif" alt="minishell" width="270" height="auto">
+  <img src="https://github.com/paulobeckhauser/cub3d/blob/main/bonus/textures/gif/cub3d.gif" alt="cub3d" width="270" height="auto">
+  <img src="https://github.com/cptfran/VampJump/blob/main/Assets/Textures/demo.gif" alt="VampJump" width="270" height="auto">
 </div>
 
 
