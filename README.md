@@ -32,14 +32,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/joomla.svg" alt="joomla" width="50" height="50" style="pointer-events: none;">
 </span>
 
-## Work
-<div style="display: flex; gap: 10px;">
-  <img src="https://github.com/paulobeckhauser/minishell/blob/main/minishell.gif" alt="minishell" width="275" height="150">
-  <img src="https://github.com/paulobeckhauser/cub3d/blob/main/bonus/textures/gif/cub3d.gif" alt="cub3d" width="275" height="auto">
-  <img src="https://github.com/cptfran/VampJump/blob/main/Assets/Textures/demo.gif" alt="VampJump" width="275" height="auto">
-</div>
-
-
 
 <!--
 **cptfran/cptfran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
