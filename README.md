@@ -6,6 +6,9 @@
     <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram" width="50" height="50">
 </a>
 
+Currently Software Developer at RAFI Group.
+Involved in the development of a large-scale proof software application for real-world testing, leveraging C++, JavaScript, and Lua.
+
 <!--
 **cptfran/cptfran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
